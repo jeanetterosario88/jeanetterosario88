@@ -1,7 +1,8 @@
 
-### Hello! My name is Jeanette!
+## Hello! My name is Jeanette!
 
-## Check out my [LinkedIn]: 
+### I am a software engineer, a native New Yorker, and an artist!
+###Check out my [LinkedIn]: 
 
 
 ## About Me:
