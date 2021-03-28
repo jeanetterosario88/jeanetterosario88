@@ -4,7 +4,7 @@
 ## About Me:
 ### I am a full-stack software engineer and a native New Yorker.
 ### I earned my B.A. from Columbia University.
-### I am a graduate of the Flatiron School School.
+### I am a graduate of the Flatiron School.
 
 ### Check me out on: 👔 [Linkedin][Linkedin]
 
