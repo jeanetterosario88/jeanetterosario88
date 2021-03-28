@@ -2,9 +2,9 @@
 ![Banner]
 
 ## About Me:
-### I am a software engineer and a native New Yorker.
-### I am recent graduate of the Flatiron School Software Engineering bootcamp.
-### I am currently learning about Node.js and Angular.
+### I am a full-stack software engineer and a native New Yorker.
+### I earned my B.A. from Columbia University.
+### I am a graduate of the Flatiron School School.
 
 ### Check me out on: 👔 [Linkedin][Linkedin]
 
